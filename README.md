@@ -1,2 +1,4 @@
 # project2
-clone
+
+Practice cloning. 
+
